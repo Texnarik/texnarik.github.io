@@ -1,1 +1,0 @@
-# texnarik.github.io
