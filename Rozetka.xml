@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2019-09-29 13:30">
+    <shop>
+        <name>Texnarik</name>
+        <company>Texnarik</company>
+        <url>https://texnarik.github.io</url>
+        <currencies>
+            <currency id="UAH" rate="1" />
+        </currencies>
+        <categories>
+            <category id="1">Товары для дома</category>
+            <category id="2">Точилки для Ножей</category>
+			<category id="3">Активный отдых, туризм и хобби</category>
+        </categories>
+        <offers>
+            <offer available="true" id="1">
+                <url>https://texnarik.github.io</url>
+                <price>250</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>2</categoryId>
+                <picture>https://texnarik.github.io/doska1.jpg</picture>
+                <picture>https://texnarik.github.io/doska6.jpg</picture>
+                <picture>https://texnarik.github.io/doska7.jpg</picture>
+                <name>Доска для правки ножей (1)</name>
+                <vendor>Texnarik</vendor>
+                <description><![CDATA[<p>Двухстороння досточка собственного производства, кожа из крупного рогатого скота, толщиной 3мм, дерево ясень</p>]]></description>
+                <param name="Дополнительные характеристики"><![CDATA[<p>Состояние: новое<br>Толщина кожи: 3мм.<br>Кожа: крупный рогатый скот</p>]]></param>
+                <param name="Вид">Доска для правки ножей</param>
+                <param name="Размеры коробки">100x75x75 мм</param>
+                <param name="Страна-производитель">Украина</param>
+                <param name="Гарантия">14 дней</param>
+                <stock_quantity>100</stock_quantity>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
