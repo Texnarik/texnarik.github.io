@@ -29,7 +29,7 @@
                 <param name="Размеры коробки">100x75x75 мм</param>
                 <param name="Страна-производитель">Украина</param>
                 <param name="Гарантия">14 дней</param>
-                <stock_quantity>100</stock_quantity>
+                <stock_quantity>20</stock_quantity>
             </offer>
         </offers>
     </shop>
